@@ -26,3 +26,8 @@ Or
 ```
 $ python migrator.py "down"
 ```
+
+Roadmap
+=======
+
+* Add an example of actual peewee migrations
